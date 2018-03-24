@@ -1,4 +1,4 @@
-import jogovelha
+import jogovelha 
 import sys
 
 erroInicializar = False
